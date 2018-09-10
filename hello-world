@@ -1,0 +1,1 @@
+echo "<html><h1>Hello from rakesh </h2></html>" > /var/www/html/index.html
